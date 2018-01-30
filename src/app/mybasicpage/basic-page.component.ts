@@ -5,4 +5,5 @@ import {Component} from '@angular/core';
   styleUrls: ['./basic-page.component.scss']
 })
 export class BasicPageComponent {
+  public selectedOption = 'Nothing selected';
 }
